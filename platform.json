@@ -92,7 +92,7 @@
     "framework-cmsis": {
       "type": "framework",
       "optional": true,
-      "version": "~1.40500.0"
+      "version": "https://github.com/frankleonrose/framework-cmsis"
     },
     "framework-cmsis-atmel": {
       "type": "framework",
