@@ -25,6 +25,7 @@
     "system": "samd",
     "usb_product": "Adafruit Feather M0",
     "variant": "feather_m0",
+    "product_line" :"feather_m0",
     "zephyr": {
        "variant": "adafruit_feather_m0_basic_proto"
     }
