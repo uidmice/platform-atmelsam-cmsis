@@ -37,7 +37,8 @@
   },
   "frameworks": [
     "arduino",
-    "zephyr"
+    "zephyr",
+    "cmsis"
     ],
   "name": "Adafruit Feather M0",
   "upload": {
